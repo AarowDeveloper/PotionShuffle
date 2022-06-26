@@ -1,0 +1,5 @@
+name: PotionShuffle
+version: 1.0
+main: dev.aarow.potionshuffle.PotionShuffle
+author: Aarow_
+commands: [startpotionshuffle, stoppotionshuffle]

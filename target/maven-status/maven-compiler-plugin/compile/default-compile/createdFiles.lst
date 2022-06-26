@@ -1,0 +1,8 @@
+dev\aarow\potionshuffle\managers\Manager.class
+dev\aarow\potionshuffle\utility\general\PotionUtility.class
+dev\aarow\potionshuffle\commands\impl\StopPotionShuffleCMD.class
+dev\aarow\potionshuffle\utility\text\CC.class
+dev\aarow\potionshuffle\tasks\PotionShuffleTask.class
+dev\aarow\potionshuffle\commands\impl\StartPotionShuffleCMD.class
+dev\aarow\potionshuffle\managers\impl\GameManager.class
+dev\aarow\potionshuffle\PotionShuffle.class
